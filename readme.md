@@ -1,3 +1,5 @@
+<p align="center">A ready to use template for RESTful API in PHP </p>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
